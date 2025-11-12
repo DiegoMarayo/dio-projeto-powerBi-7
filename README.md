@@ -89,7 +89,7 @@ Domínio de técnicas analíticas e visuais avançadas no Power BI
 
 ## 🚀 Como Executar
 
-Baixe o arquivo .pbix do repositório
+Baixe o arquivo .pbit do repositório
 
 Abra no Power BI Desktop
 
